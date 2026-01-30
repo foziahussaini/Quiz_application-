@@ -1,6 +1,6 @@
-# quiz
+# Quiz Application 
 
-A new Flutter project.
+Quiz application set for mobile Android for the user to start the quiz and answer the questions immediately.
 
 ## Getting Started
 
